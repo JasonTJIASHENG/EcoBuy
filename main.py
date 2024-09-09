@@ -1,0 +1,2 @@
+x = "ecobuy"
+print(x)
