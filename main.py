@@ -1,2 +1,0 @@
-x = "ecobuy"
-print(x)
