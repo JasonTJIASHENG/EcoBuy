@@ -1,0 +1,11 @@
+Part of contribution: Functionality Guide
+
+I completed the Functionality Guide section of the user manual, covering slides 13 +to 16 in Canva.
+
+This section outlines the following features available on the website:
+1. Product Categories
+2. Wishlist
+3. Checkout & Payment
+4. My Orders
+
+I provided step-by-step instructions on how to use each feature effectively, encouraging users to explore and fully utilize the website's capabilities.
