@@ -1,0 +1,12 @@
+Part of contribution: Navigation Functionality
+
+I have contributed to the Navigation Functionality section of the user manual, covering slides 6 to 12 in Canva.
+
+The following elements, along with short explanations, are presented in the Navigation section:
+1. Create A New Account (Sign Up & Sign In)
+2. Home Page
+3. Searching a Product
+4. About Us
+5. Contact Us (Customer Support)
+
+Each element includes screenshots designed in Figma to illustrate the key features respectively.
