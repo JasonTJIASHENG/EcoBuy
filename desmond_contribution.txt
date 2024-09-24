@@ -1,0 +1,15 @@
+Part of contribution: Dashboard Overview
+
+I have completed the Dashboard Overview section of the user manual, covering slides 4 and 5 in Canva.
+
+The following components are included in the dashboard:
+1. Deals
+2. Beverages
+3. Food
+4. Households
+5. Personal Care
+6. My Orders
+7. Most Popular
+
+Each component is explained with a brief yet clear description, highlighting its main purpose within the app.
+
